@@ -1,0 +1,106 @@
+{
+    
+    "0123":
+        {
+            "name": "JacMwas",
+            "course": "Computer Science",
+            "starting_year": 2017,
+            "total_entrance": 0,
+            "standing": "G",
+            "year": 2,
+            "last_entrance_time": "2022-12-11 00:54:34"
+        },
+    "0124":
+        {
+            "name": "Dr. Clement Kiprotich Kiptum",
+            "course": "Engineering",
+            "starting_year": 2012,
+            "total_entrance": 0,
+            "standing": "G",
+            "year": 1,
+            "last_entrance_time": "2022-12-11 00:54:34"
+        },
+    "0125":
+        {
+            "name": "Dr. Nicholas Kipkemboi",
+            "course": "Agriculture & Biotechnology",
+            "starting_year": 2020,
+            "total_entrance": 0,
+            "standing": "G",
+            "year": 2,
+            "last_entrance_time": "2022-12-11 00:54:34"
+        },
+    "0126":
+        {
+            "name": "Dr. Lelei K. Kiboiy",
+            "course": "Philosophy Education Management",
+            "starting_year": 2020,
+            "total_entrance": 0,
+            "standing": "G",
+            "year": 2,
+            "last_entrance_time": "2022-12-11 00:54:34"
+        },
+    "0127":
+        {
+            "name": "Prof. Samuel Lutta",
+            "course": "Chemistry and BioChemistry",
+            "starting_year": 2020,
+            "total_entrance": 0,
+            "standing": "G",
+            "year": 2,
+            "last_entrance_time": "2022-12-11 00:54:34"
+        },
+    "0128":
+        {
+            "name": "Dr. Jacob O. Onyango",
+            "course": "Arts and Human Development",
+            "starting_year": 2020,
+            "total_entrance": 0,
+            "standing": "G",
+            "year": 2,
+            "last_entrance_time": "2022-12-11 00:54:34"
+        },
+     "0129":
+        {
+            "name": "Prof. Robert I. Otuya",
+            "course": "Economics and Business Management",
+            "starting_year": 2020,
+            "total_entrance": 0,
+            "standing": "G",
+            "year": 2,
+            "last_entrance_time": "2022-12-11 00:54:34"
+        },
+      
+      "0130":
+        {
+            "name": "Dr. Hosea Kiplagat",
+            "course": "Education",
+            "starting_year": 2020,
+            "total_entrance": 0,
+            "standing": "G",
+            "year": 2,
+            "last_entrance_time": "2022-12-11 00:54:34"
+        },
+    "0131":
+        {
+            "name": "Dr. Mark Kiptui",
+            "course": "Environmental Sciences and Natural Resource Management",
+            "starting_year": 2020,
+            "total_entrance": 0,
+            "standing": "G",
+            "year": 2,
+            "last_entrance_time": "2022-12-11 00:54:34"
+        },
+
+    
+    "963852":
+        {
+            "name": "Elon Musk",
+            "major": "Physics",
+            "starting_year": 2020,
+            "total_attendance": 7,
+            "standing": "G",
+            "year": 2,
+            "last_attendance_time": "2022-12-11 00:54:34"
+        }
+}
